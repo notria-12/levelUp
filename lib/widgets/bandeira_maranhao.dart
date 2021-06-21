@@ -57,8 +57,15 @@ class BandeiraMaranhao extends StatelessWidget {
                 alignment: Alignment.topLeft,
                 child: Container(
                   color: Colors.blue[900],
-                  width: 150,
-                  height: 150,
+                  width: 160,
+                  height: 160,
+                  child: Center(
+                    child: Icon(
+                      Icons.star,
+                      color: Colors.white,
+                      size: 120,
+                    ),
+                  ),
                 ),
               )
             ],
