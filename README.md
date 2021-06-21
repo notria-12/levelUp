@@ -5,8 +5,12 @@
 Esse é um levelUp1, exercício feito com intuito de testar conhecimentos iniciais adiquiros nas segunda semana da Raro Academy
 
 1 - EXERCÍCIO: Criar Bandeira do Japão com Flutter
-    RESULTADO
+    1.1 - RESULTADO
     <img src="bandeira_japao.jpg" alt="bandeira japão"/>
+
+2 - ADICIONAL: Criar Bandeira de estado  ou pais 
+    2.1 - RESULTADO
+    <img src="bandeira_maranhao.jpg" alt="bandeira maranhão"/>
 
 ## Getting Started
 
