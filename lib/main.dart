@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:level_up/widgets/views/home_page.dart';
+import 'package:level_up/views/home_page.dart';
 
 void main() {
   runApp(MyApp());

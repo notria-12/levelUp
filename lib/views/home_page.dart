@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:level_up/widgets/bandeira_jap%C3%A3o.dart';
+import 'package:level_up/widgets/bandeira_maranhao.dart';
 
 class HomePage extends StatelessWidget {
   @override
@@ -11,7 +12,7 @@ class HomePage extends StatelessWidget {
         ),
         centerTitle: true,
       ),
-      body: BandeiraJapao(),
+      body: BandeiraMaranhao(),
     );
   }
 }
