@@ -7,12 +7,12 @@ class BandeiraJapao extends StatelessWidget {
       child: Material(
         elevation: 4,
         child: Container(
-          height: 300,
+          height: 280,
           color: Colors.white,
           child: Center(
             child: Container(
-              height: 100,
-              width: 100,
+              height: 200,
+              width: 200,
               decoration:
                   BoxDecoration(color: Colors.red, shape: BoxShape.circle),
             ),
