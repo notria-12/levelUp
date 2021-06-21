@@ -1,6 +1,12 @@
 # level_up
 
-A new Flutter project.
+## Description
+
+Esse é um levelUp1, exercício feito com intuito de testar conhecimentos iniciais adiquiros nas segunda semana da Raro Academy
+
+1 - EXERCÍCIO: Criar Bandeira do Japão com Flutter
+    RESULTADO
+    <img src="bandeira_japao.jpg" alt="bandeira japão"/>
 
 ## Getting Started
 
